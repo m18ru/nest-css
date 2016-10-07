@@ -1,0 +1,25 @@
+{
+  "name": "nest-css",
+  "version": "0.0.0",
+  "description": "CSS methodology based on nesting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m18ru/nest-css.git"
+  },
+  "keywords": [
+    "css",
+    "nesting",
+    "nest-css",
+    "methodology"
+  ],
+  "author": "Andrey Avol Volynkin <code@m18.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m18ru/nest-css/issues"
+  },
+  "homepage": "https://github.com/m18ru/nest-css#readme"
+}
